@@ -6,7 +6,6 @@ This project demonstrates how I created database tables using SQL and exported/v
 - Created tables in SQL (Customers, Orders, etc.)
 - Ran queries to extract data
 - Exported results to Excel
-- Opened and analyzed data in pivot tables/charts
 
 ## Files
 'Customers_and_Sales_Tables' ~ SQL code for creating and inserting data.
