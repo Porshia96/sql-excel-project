@@ -1,6 +1,6 @@
 # sql-excel-project
 
-This project demonstrates how I created database tables using SQL and exported/visualized them in Excel.  
+This project demonstrates how I created a database, tables using SQL and exported/visualized them in Excel.  
 
 ## Steps
 - Created tables in SQL (Customers and sales)
