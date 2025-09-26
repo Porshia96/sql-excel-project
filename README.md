@@ -1,4 +1,4 @@
-# sql-excel-project
+# Customer and Sales Insights with SQl and Excel
 
 This project demonstrates how I created a database, tables using SQL and exported/visualized them in Excel.  
 
